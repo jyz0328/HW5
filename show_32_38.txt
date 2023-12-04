@@ -1,0 +1,37 @@
+
+A print in Adjacency  List form to help with Debugging! 
+V = 32  E = 38
+
+0: 1-> 18-> nil
+1: 0-> nil
+2: 24-> nil
+3: nil
+4: 9-> 11-> nil
+5: 25-> nil
+6: nil
+7: 31-> nil
+8: nil
+9: 4-> 17-> 18-> nil
+10: 27-> nil
+11: 4-> nil
+12: nil
+13: nil
+14: nil
+15: 17-> 29-> nil
+16: 26-> nil
+17: 9-> 15-> 20-> nil
+18: 0-> 9-> 24-> nil
+19: nil
+20: 17-> 26-> 28-> nil
+21: nil
+22: nil
+23: nil
+24: 2-> 18-> 29-> nil
+25: 5-> nil
+26: 16-> 20-> 28-> nil
+27: 10-> nil
+28: 20-> 26-> nil
+29: 15-> 24-> nil
+30: nil
+31: 7-> nil
+32 : -1 That's Edge List  nil  Folks 

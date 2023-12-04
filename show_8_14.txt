@@ -1,0 +1,13 @@
+
+A print in Adjacency  List form to help with Debugging! 
+V = 8  E = 14
+
+0: 1-> 7-> nil
+1: 0-> nil
+2: 3-> 4-> 7-> nil
+3: 2-> 5-> nil
+4: 2-> nil
+5: 3-> 7-> nil
+6: nil
+7: 0-> 2-> 5-> nil
+8 : -1 That's Edge List  nil  Folks 
