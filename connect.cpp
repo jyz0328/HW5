@@ -4,7 +4,7 @@
 #include <chrono>
 #include <vector>
 #include <algorithm>  // for sorting
-
+#include <cstring>
 using namespace std;
 //test
 typedef struct Queue
